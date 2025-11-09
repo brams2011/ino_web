@@ -1,0 +1,344 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Acerca",
+    "services": "Servicios",
+    "pricing": "Precios",
+    "news": "Noticias",
+    "contact": "Contacto",
+    "getQuote": "Solicitar Presupuesto"
+  },
+  "home": {
+    "hero": {
+      "title": "Transforme su Negocio con Inteligencia Artificial",
+      "subtitle": "Ino-Service impulsa su PYME hacia el futuro con soluciones de IA personalizadas, simples y accesibles",
+      "cta": "Descubrir Nuestras Soluciones",
+      "ctaSecondary": "Solicitar Presupuesto Gratis"
+    },
+    "features": {
+      "title": "¿Por Qué Elegir Ino-Service?",
+      "innovation": {
+        "title": "Innovación",
+        "description": "Soluciones de IA de vanguardia adaptadas a sus necesidades específicas"
+      },
+      "expertise": {
+        "title": "Experiencia",
+        "description": "Un equipo de expertos apasionados por la IA y la transformación digital"
+      },
+      "accessibility": {
+        "title": "Accesibilidad",
+        "description": "Soluciones simples y asequibles para todas las empresas"
+      },
+      "support": {
+        "title": "Acompañamiento",
+        "description": "Soporte personalizado en cada etapa de su transformación"
+      }
+    },
+    "services": {
+      "title": "Nuestros Servicios",
+      "subtitle": "Soluciones de IA completas para su negocio"
+    },
+    "cta": {
+      "title": "¿Listo para Transformar su Negocio?",
+      "subtitle": "Contáctenos hoy para una consulta gratuita",
+      "button": "Comenzar Ahora"
+    }
+  },
+  "about": {
+    "title": "Acerca de Ino-Service",
+    "subtitle": "Su Socio de Confianza en Inteligencia Artificial",
+    "mission": {
+      "title": "Nuestra Misión",
+      "description": "Hacer que la Inteligencia Artificial sea accesible para todas las empresas, especialmente PYMES e independientes, para ayudarles a innovar y crecer en un mundo digital."
+    },
+    "vision": {
+      "title": "Nuestra Visión",
+      "description": "Ser el líder en la democratización de la IA para PYMES, ofreciendo soluciones innovadoras, simples y asequibles que transforman la forma en que operan las empresas."
+    },
+    "values": {
+      "title": "Nuestros Valores",
+      "innovation": {
+        "title": "Innovación",
+        "description": "Nos mantenemos a la vanguardia de la tecnología de IA"
+      },
+      "simplicity": {
+        "title": "Simplicidad",
+        "description": "Hacemos que la IA sea accesible y fácil de usar"
+      },
+      "trust": {
+        "title": "Confianza",
+        "description": "Construimos relaciones duraderas con nuestros clientes"
+      },
+      "excellence": {
+        "title": "Excelencia",
+        "description": "Buscamos la excelencia en cada proyecto"
+      }
+    },
+    "team": {
+      "title": "Nuestro Equipo",
+      "subtitle": "Expertos apasionados al servicio de su éxito"
+    }
+  },
+  "services": {
+    "virtualAssistants": {
+      "title": "Asistentes Virtuales",
+      "subtitle": "Asistentes de IA que comprenden y responden a sus necesidades",
+      "description": "Automatice sus tareas repetitivas y mejore su productividad con nuestros asistentes virtuales inteligentes, disponibles 24/7.",
+      "features": {
+        "title": "Características",
+        "feature1": "Disponibilidad 24/7",
+        "feature2": "Comprensión del Lenguaje Natural",
+        "feature3": "Aprendizaje Continuo",
+        "feature4": "Integración Fácil"
+      },
+      "benefits": {
+        "title": "Beneficios",
+        "benefit1": "Ahorro de Tiempo Significativo",
+        "benefit2": "Reducción de Costos Operativos",
+        "benefit3": "Mejora de la Satisfacción del Cliente",
+        "benefit4": "Escalabilidad Instantánea"
+      }
+    },
+    "chatbots": {
+      "title": "Chatbots",
+      "subtitle": "Comunicación inteligente con sus clientes",
+      "description": "Involucre a sus clientes con chatbots conversacionales que comprenden sus necesidades y proporcionan respuestas instantáneas y relevantes.",
+      "features": {
+        "title": "Características",
+        "feature1": "Conversaciones Naturales",
+        "feature2": "Soporte Multilingüe",
+        "feature3": "Integración Omnicanal",
+        "feature4": "Análisis Detallados"
+      },
+      "benefits": {
+        "title": "Beneficios",
+        "benefit1": "Respuestas Instantáneas",
+        "benefit2": "Aumento de Conversiones",
+        "benefit3": "Recopilación de Datos Valiosos",
+        "benefit4": "Satisfacción del Cliente Mejorada"
+      }
+    },
+    "automation": {
+      "title": "Automatización",
+      "subtitle": "Automatice sus procesos de negocio",
+      "description": "Libere a su equipo de tareas repetitivas con nuestras soluciones de automatización inteligente que se adaptan a sus procesos.",
+      "features": {
+        "title": "Características",
+        "feature1": "Flujos de Trabajo Personalizables",
+        "feature2": "Integración con Sus Herramientas",
+        "feature3": "Automatización Inteligente",
+        "feature4": "Paneles en Tiempo Real"
+      },
+      "benefits": {
+        "title": "Beneficios",
+        "benefit1": "Productividad Aumentada",
+        "benefit2": "Reducción de Errores",
+        "benefit3": "ROI Rápido",
+        "benefit4": "Enfoque en Valor Agregado"
+      }
+    },
+    "consulting": {
+      "title": "Consultoría",
+      "subtitle": "Experiencia y acompañamiento personalizado",
+      "description": "Benefíciese de nuestra experiencia para definir e implementar su estrategia de IA, desde el análisis de necesidades hasta la implementación en producción.",
+      "features": {
+        "title": "Servicios",
+        "feature1": "Auditoría de IA de Su Empresa",
+        "feature2": "Definición de Estrategia",
+        "feature3": "Formación de Sus Equipos",
+        "feature4": "Soporte Continuo"
+      },
+      "benefits": {
+        "title": "Beneficios",
+        "benefit1": "Estrategia Clara y Adaptada",
+        "benefit2": "Reducción de Riesgos",
+        "benefit3": "Desarrollo de Habilidades",
+        "benefit4": "ROI Maximizado"
+      }
+    }
+  },
+  "pricing": {
+    "title": "Nuestros Precios",
+    "subtitle": "Soluciones para cada presupuesto",
+    "monthly": "Mensual",
+    "annual": "Anual",
+    "starter": {
+      "name": "Starter",
+      "price": "499€",
+      "period": "/mes",
+      "description": "Perfecto para comenzar con IA",
+      "features": [
+        "1 Asistente Virtual o Chatbot",
+        "500 conversaciones/mes",
+        "Soporte por Email",
+        "Integración Básica",
+        "Análisis Mensuales"
+      ],
+      "cta": "Comenzar"
+    },
+    "business": {
+      "name": "Business",
+      "price": "1.299€",
+      "period": "/mes",
+      "description": "Para empresas en crecimiento",
+      "popular": true,
+      "features": [
+        "3 Asistentes Virtuales o Chatbots",
+        "2000 conversaciones/mes",
+        "Soporte Prioritario",
+        "Integraciones Avanzadas",
+        "Análisis en Tiempo Real",
+        "Formación del Equipo",
+        "Automatizaciones Personalizadas"
+      ],
+      "cta": "Prueba Gratuita"
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "price": "Personalizado",
+      "period": "",
+      "description": "Soluciones personalizadas para grandes empresas",
+      "features": [
+        "Asistentes Ilimitados",
+        "Conversaciones Ilimitadas",
+        "Soporte Dedicado 24/7",
+        "Integraciones Personalizadas",
+        "Infraestructura Dedicada",
+        "Formación Completa",
+        "Consultoría Estratégica",
+        "SLA Garantizado"
+      ],
+      "cta": "Contáctenos"
+    },
+    "custom": {
+      "title": "Solución Personalizada",
+      "description": "¿Necesita una solución específica? Creamos paquetes adaptados a sus necesidades únicas.",
+      "cta": "Solicitar Presupuesto"
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "q1": {
+        "question": "¿Puedo cambiar de plan en cualquier momento?",
+        "answer": "Sí, puede actualizar o reducir su plan en cualquier momento. Los cambios tienen efecto inmediato."
+      },
+      "q2": {
+        "question": "¿Hay un compromiso mínimo?",
+        "answer": "No, nuestros planes no tienen compromiso. Puede cancelar en cualquier momento."
+      },
+      "q3": {
+        "question": "¿Ofrecen un período de prueba?",
+        "answer": "Sí, ofrecemos un período de prueba gratuito de 14 días para todos nuestros planes Business y Enterprise."
+      },
+      "q4": {
+        "question": "¿Qué sucede si excedo mi cuota de conversaciones?",
+        "answer": "Le avisamos cuando se acerca a su límite. Luego puede actualizar su plan o comprar conversaciones adicionales."
+      }
+    }
+  },
+  "news": {
+    "title": "Noticias de IA",
+    "subtitle": "Manténgase informado sobre las últimas innovaciones",
+    "readMore": "Leer Más",
+    "latest": "Últimas Noticias",
+    "categories": {
+      "all": "Todas",
+      "ai": "Inteligencia Artificial",
+      "updates": "Actualizaciones",
+      "tips": "Consejos"
+    }
+  },
+  "contact": {
+    "title": "Contáctenos",
+    "subtitle": "Estamos aquí para responder a sus preguntas",
+    "form": {
+      "name": "Nombre Completo",
+      "email": "Email",
+      "phone": "Teléfono",
+      "company": "Empresa",
+      "subject": "Asunto",
+      "message": "Mensaje",
+      "submit": "Enviar",
+      "sending": "Enviando...",
+      "success": "¡Mensaje enviado con éxito!",
+      "error": "Ocurrió un error. Por favor, inténtelo de nuevo."
+    },
+    "info": {
+      "title": "Información de Contacto",
+      "address": "Dirección",
+      "addressValue": "123 Avenida de la Innovación, 75001 París, Francia",
+      "phone": "Teléfono",
+      "phoneValue": "+33 1 23 45 67 89",
+      "email": "Email",
+      "emailValue": "contact@ino-service.com",
+      "hours": "Horario de Atención",
+      "hoursValue": "Lun - Vie: 9:00 - 18:00"
+    }
+  },
+  "quote": {
+    "title": "Solicitar un Presupuesto Personalizado",
+    "subtitle": "Obtenga una solución adaptada a sus necesidades",
+    "form": {
+      "contactInfo": "Información de Contacto",
+      "name": "Nombre Completo",
+      "email": "Email Profesional",
+      "phone": "Teléfono",
+      "company": "Nombre de la Empresa",
+      "industry": "Sector de Actividad",
+      "industryPlaceholder": "Ej: Salud, E-commerce, Finanzas...",
+      "projectInfo": "Detalles del Proyecto",
+      "service": "Servicio Deseado",
+      "selectService": "Seleccione un servicio",
+      "budget": "Presupuesto Estimado",
+      "selectBudget": "Seleccione un rango",
+      "timeline": "Plazo Deseado",
+      "selectTimeline": "Seleccione un plazo",
+      "description": "Descripción de su Proyecto",
+      "descriptionPlaceholder": "Describa sus necesidades y objetivos...",
+      "submit": "Enviar Solicitud",
+      "submitting": "Enviando..."
+    },
+    "services": {
+      "virtualAssistant": "Asistente Virtual",
+      "chatbot": "Chatbot",
+      "automation": "Automatización",
+      "consulting": "Consultoría",
+      "custom": "Solución Personalizada"
+    },
+    "budgets": {
+      "small": "< 5.000€",
+      "medium": "5.000€ - 15.000€",
+      "large": "15.000€ - 50.000€",
+      "enterprise": "> 50.000€"
+    },
+    "timelines": {
+      "urgent": "< 1 mes",
+      "normal": "1-3 meses",
+      "flexible": "3-6 meses",
+      "planning": "> 6 meses"
+    }
+  },
+  "testimonials": {
+    "title": "Lo Que Dicen Nuestros Clientes",
+    "subtitle": "Descubra cómo hemos ayudado a otras empresas"
+  },
+  "footer": {
+    "description": "Ino-Service - Su socio en Inteligencia Artificial para transformar su negocio.",
+    "quickLinks": "Enlaces Rápidos",
+    "services": "Servicios",
+    "legal": "Legal",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Uso",
+    "cookies": "Gestión de Cookies",
+    "followUs": "Síguenos",
+    "newsletter": "Boletín",
+    "newsletterText": "Manténgase informado de nuestras últimas noticias",
+    "emailPlaceholder": "Su email",
+    "subscribe": "Suscribirse",
+    "copyright": "© 2024 Ino-Service. Todos los derechos reservados."
+  },
+  "chatbot": {
+    "welcome": "¡Hola! ¿Cómo puedo ayudarle hoy?",
+    "placeholder": "Escriba su mensaje...",
+    "send": "Enviar"
+  }
+}
