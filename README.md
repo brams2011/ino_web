@@ -1,36 +1,98 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Ino-Service - Site Web Professionnel
 
-## Getting Started
+Site web multilingue pour l'agence d'Intelligence Artificielle Ino-Service.
 
-First, run the development server:
+## 🚀 Démarrage Rapide
 
 ```bash
+# Installation des dépendances
+npm install
+
+# Démarrage du serveur de développement
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
+# Build de production
+npm run build
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Le site sera accessible sur [http://localhost:3000](http://localhost:3000)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🌍 Langues Supportées
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Français** (défaut) : `/fr`
+- **Anglais** : `/en`
+- **Espagnol** : `/es`
 
-## Learn More
+## 📄 Pages Disponibles
 
-To learn more about Next.js, take a look at the following resources:
+### Pages Principales
+- **Accueil** : `/[locale]` - Hero, features, services, testimonials
+- **À Propos** : `/[locale]/about` - Mission, vision, valeurs, équipe
+- **Tarifs** : `/[locale]/pricing` - 3 forfaits (Starter, Business, Enterprise)
+- **Actualités** : `/[locale]/news` - Blog et actualités IA
+- **Contact** : `/[locale]/contact` - Formulaire + infos
+- **Devis** : `/[locale]/quote` - Demande de devis personnalisé
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Pages Services
+- `/[locale]/services/virtual-assistants` - Assistants Virtuels
+- `/[locale]/services/chatbots` - Chatbots
+- `/[locale]/services/automation` - Automatisation
+- `/[locale]/services/consulting` - Conseil
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🎨 Stack Technique
 
-## Deploy on Vercel
+- **Next.js** 15.5.6 (App Router)
+- **TypeScript**
+- **Tailwind CSS**
+- **Framer Motion** (animations)
+- **Heroicons** + React Icons
+- **next-intl** (i18n)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## ✅ Fonctionnalités
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+✅ Design responsive mobile-first
+✅ 3 langues avec traductions complètes
+✅ Animations fluides
+✅ Widget chatbot
+✅ Formulaires de contact
+✅ SEO optimisé
+✅ 34 pages statiques
+✅ Carrousel testimonials
+
+## 🔧 Configuration
+
+**Couleurs principales:**
+- Primary: `#0066cc`
+- Secondary: `#00aaff`
+- Accent: `#66ccff`
+
+**Modifier les traductions:** Éditer les fichiers dans `/messages/`
+
+## 📦 Structure
+
+```
+ino_web/
+├── app/[locale]/      # Pages multilingues
+├── components/        # Composants React
+├── messages/          # Traductions (fr/en/es)
+├── i18n.ts           # Config i18n
+├── middleware.ts     # Middleware next-intl
+└── next.config.ts    # Config Next.js
+```
+
+## 🐛 Solution Problème 404
+
+Le problème 404 a été résolu par :
+1. Downgrade Next.js 16 → 15.5.6
+2. Configuration correcte `requestLocale` dans `i18n.ts`
+3. Retour explicite du `locale`
+
+## 🚢 Déploiement
+
+```bash
+vercel
+```
+
+---
+
+© 2024 Ino-Service
